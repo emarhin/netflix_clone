@@ -1,6 +1,6 @@
 ### project live on
 
-This project was bootstrapped with [live on](https://blissful-engelbart-70fbb4.netlify.app/).
+click [here](https://blissful-engelbart-70fbb4.netlify.app/). https://blissful-engelbart-70fbb4.netlify.app/
 
 ### `npm start`
 
