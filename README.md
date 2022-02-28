@@ -1,3 +1,3 @@
 ### project live on
 
-click here [https://blissful-engelbart-70fbb4.netlify.app/](https://blissful-engelbart-70fbb4.netlify.app/).
+click here [https://eager-kalam-5432e6.netlify.app/](https://eager-kalam-5432e6.netlify.app//).
